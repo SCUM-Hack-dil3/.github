@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Secure File Download</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <div class="background">
+    <div class="gradient"></div>
+  </div>
+  <div class="container">
+    <div id="loader" class="loader"></div>
+    <h1>Secure Download</h1>
+    <div class="progress-container">
+      <div id="progress-bar" class="progress-bar"></div>
+    </div>
+    <div class="info-box">
+      <div class="info-row">
+        <span>File Hash:</span>
+        <span id="fileHash">Calculating...</span>
+      </div>
+      <div class="info-row">
+        <span>Security Status:</span>
+        <span class="badge virus-checked">Virus Checked</span>
+      </div>
+    </div>
+    <p id="status">Please wait a moment...</p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
